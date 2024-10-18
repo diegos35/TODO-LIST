@@ -1,3 +1,5 @@
+![Screenshot from 2024-10-18 18-27-57](https://github.com/user-attachments/assets/a6b6832b-0af1-4166-9210-815c164c866f)
+
 # TODO List API
 
 A simple and efficient API for managing tasks using NestJS. This application allows users to create, retrieve, update, and delete tasks with various statuses.
