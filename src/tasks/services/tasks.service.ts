@@ -1,4 +1,6 @@
 import { Injectable, NotFoundException } from '@nestjs/common';
+import { Task } from './../entities/task.entity';
+import { TaskStatus } from '../enums/task-status.enum';
 
 @Injectable()
 export class TasksService {
